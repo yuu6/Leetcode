@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2148fa71-826a-4e31-8ff6-26d83fdb0d7c" name="Default" comment="" />
+    <list default="true" id="2148fa71-826a-4e31-8ff6-26d83fdb0d7c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../Leetcode/README.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/../Leetcode/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,13 +23,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="两个数之和.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="两个数之和.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Leetcode/src/TwoSum/两个数之和.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="108">
                 <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
               </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Leetcode/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -41,6 +53,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Leetcode" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -65,6 +80,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -182,19 +198,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552718253204</updated>
-      <workItem from="1552718254659" duration="2046000" />
+      <workItem from="1552718254659" duration="2097000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2046000" />
+    <option name="totallyTimeSpent" value="2097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.32997763" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.33034715" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="right" id="Mongo Explorer" />
@@ -211,8 +227,8 @@
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.32997763" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.33034715" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="right" id="Graph Database" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -252,6 +268,14 @@
           <first_editor relative-caret-position="108">
             <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
           </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Leetcode/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>
